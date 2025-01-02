@@ -7,3 +7,11 @@ This paper presents:
 - Authonomous Search and Rescue system using UAVs
 - People detection, face recognition and body tracking using deep learining algorithms.
 - Data-driven system identification and PD controller design.
+
+## Project components
+Main project components:
+- People detection using [YOLOv11s](https://docs.ultralytics.com/models/yolo11/) convolutional neural network
+- Face detection, face embedding vector calculation and face recognition using [dlib's](http://dlib.net/) face recognition convolutional neural network
+- Body keypoints detection using YOLOv11-pose novoluutional neural network
+- Data-driven system identification and PD controller design using [Matlab](https://www.mathworks.com/products/matlab.html) and [Simulink](https://www.mathworks.com/products/simulink.html)
+- DJI Tello drone ROS2 integration using [tello_driver](https://wiki.ros.org/tello_driver)
