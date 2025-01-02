@@ -15,3 +15,6 @@ Main project components:
 - Body keypoints detection using YOLOv11-pose novoluutional neural network
 - Data-driven system identification and PD controller design using [Matlab](https://www.mathworks.com/products/matlab.html) and [Simulink](https://www.mathworks.com/products/simulink.html)
 - DJI Tello drone ROS2 integration using [tello_driver](https://wiki.ros.org/tello_driver)
+
+## Video
+ [Video1](https://github.com/lukasiktar/AQNSRMUCVC/blob/main/Tello_Indoor_video_02.mp4)
