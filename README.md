@@ -17,4 +17,5 @@ Main project components:
 - DJI Tello drone ROS2 integration using [tello_driver](https://wiki.ros.org/tello_driver)
 
 ## Video
- [Video1](https://youtu.be/8VNuQz0snF0)
+ [Autonomous Quadcopter Navigation for SAR Missions Using Computer Vision and CNNs 01](https://youtu.be/8VNuQz0snF0)
+ [Autonomous Quadcopter Navigation for SAR Missions Using Computer Vision and CNNs 02](https://youtu.be/Y3YpWdQgRvw)
