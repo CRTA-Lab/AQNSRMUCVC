@@ -18,4 +18,5 @@ Main project components:
 
 ## Video
  [Autonomous Quadcopter Navigation for SAR Missions Using Computer Vision and CNNs 01](https://youtu.be/8VNuQz0snF0)
+ 
  [Autonomous Quadcopter Navigation for SAR Missions Using Computer Vision and CNNs 02](https://youtu.be/Y3YpWdQgRvw)
