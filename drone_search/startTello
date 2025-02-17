@@ -1,0 +1,13 @@
+T1: 
+
+colcon build --event-handlers console_direct+ --packages-skip tello_gazebo
+source install/setup.bash
+
+ros2 launch drone_search drone_search_launch.py
+
+T2: 
+
+source tello_ros2_ws/install/setup.bash
+ros2 run drone_search drone_search
+
+
