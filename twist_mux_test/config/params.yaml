@@ -1,0 +1,15 @@
+/twist_mux:
+  ros__parameters:
+    topics:
+      drone:
+        topic: drone_cmd_vel
+        timeout: 0.0333
+        priority: 10
+      joy:
+        topic: filtered_cmd_vel_joy
+        timeout: 0.0667
+        priority: 100
+    publisher:
+      topic: cmd_vel_drone
+      rate: 30
+
