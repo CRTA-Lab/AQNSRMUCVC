@@ -20,3 +20,12 @@ Main project components:
  [Autonomous Quadcopter Navigation for SAR Missions Using Computer Vision and CNNs 01](https://youtu.be/8VNuQz0snF0)
  
  [Autonomous Quadcopter Navigation for SAR Missions Using Computer Vision and CNNs 02](https://youtu.be/Y3YpWdQgRvw)
+
+## Code Implementation
+
+To implement the provided ROS2 package:
+- Install ROS2 Humble [Humble](https://docs.ros.org/en/humble/Installation.html)
+- Setup ROS2 [Workspace](https://docs.ros.org/en/humble/Tutorials/Beginner-Client-Libraries/Creating-A-Workspace/Creating-A-Workspace.html)
+- Setup "drone_search" package, [tutorial](https://docs.ros.org/en/humble/Tutorials/Beginner-Client-Libraries/Creating-Your-First-ROS2-Package.html)
+- Setup additional packages, [vision_opencv](https://github.com/ros-perception/vision_opencv) , [tello_ros](https://github.com/clydemcqueen/tello_ros)
+- Build, Source and Run
